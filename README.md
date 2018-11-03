@@ -9,12 +9,16 @@ Objects:
 Screens:
 Title screen, logo
 Main - has question and results. Slide changes to improve UI, like current result of question
-Search
-Ask
-User
-Past Qs/Results
+Search - looks for tags
+Ask - ask a new question, implements question constructor, assigns it to user through question ID
+User - has profle info, settings, options, photo
+Past Qs/Results - past user questions and results
 
 DataBase:
 Questions, answers and users
+Question ID based implementation
 
 Modes:
+Instantaneous - Random AI
+Suggested Q/A
+User inputted answers
