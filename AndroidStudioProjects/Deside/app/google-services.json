@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851479937717",
+    "firebase_url": "https://deside-2e5b7.firebaseio.com",
+    "project_id": "deside-2e5b7",
+    "storage_bucket": "deside-2e5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851479937717:android:9a13b8f6c00fefa5",
+        "android_client_info": {
+          "package_name": "com.deside.deside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851479937717-vs40tghcdi76eo079lvd2no5iel0riea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qXbv7BEU2_s-IF34vRx-wcslzQ-THFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
